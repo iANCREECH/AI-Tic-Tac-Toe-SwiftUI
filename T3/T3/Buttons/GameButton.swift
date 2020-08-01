@@ -23,7 +23,7 @@ struct GameButton: View {
                 .fontWeight(.semibold)
                 .frame(width: 65, height: 65)
                 .foregroundColor(Color.black)
-                .background(Color.gray)
+                .background(Color.offWhite)
                 .cornerRadius(20)
                 .shadow(color: Color.black.opacity(0.2), radius: 5, x: 5, y: 5)
                 .shadow(color: Color.white, radius: 5, x: -5, y: -5)
